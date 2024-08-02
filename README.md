@@ -235,6 +235,6 @@ On the other hand, if you want to know something, or want to start a discussion 
 
 ## Tutorials about how to build or use this project
 
-I have been screen recording the coding steps of this project. You can find the videos in the [YouTube playlist](https://www.youtube.com/playlist?list=PLEYpvDF6qy8aUl1KnB1oaZbwLE2oPcZmz). These  videos are only in **Bangla**, but I am happy to take special dedicated+paid sessions in English for international intersted audience. Feel free to reach out to me at foyzulkarim@gmail.com for any kind of help.
+I have been screen recording the coding steps of this project. You can find the videos in the [YouTube playlist]. These  videos are only in **Bangla**, but I am happy to take special dedicated+paid sessions in English for international intersted audience. Feel free to reach out to me at andrijamatic0308@gmail.com for any kind of help.
 
 Thanks. Cheers.
