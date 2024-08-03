@@ -1,4 +1,4 @@
-# Welcome to the RBAC MERN Boilerplate project
+# 👏 Welcome to the RBAC MERN Boilerplate project 👏
 
 ### _A complete (Work in progress now) MERN boilerplate repository with RBAC feature, following all production best practices._
 
